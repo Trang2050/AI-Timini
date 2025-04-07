@@ -1,5 +1,5 @@
 // Cấu hình hệ thống
-
+const deviceIP = "192.168.1.4"
 const config = {
      port: 81,
     ttsSettings: {
